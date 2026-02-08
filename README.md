@@ -37,10 +37,10 @@ The dataset contains demographic, clinical, and diagnostic features such as Age,
 Repository Structure:
 project-folder/
 │-- app.py
-│-- train_model.py
+│-- Models/train_model.py
 │-- requirements.txt
 │-- README.md
-│-- model/
+│-- model/saved
 │     ├── logistic.pkl
 │     ├── decision_tree.pkl
 │     ├── knn.pkl
